@@ -8,7 +8,7 @@ const Home = () => {
         <div className="container hero-content">
           <h1>Bridging Industrial Expertise with Artificial Intelligence</h1>
           <p>AIJ Consulting combines decades of hands-on engineering experience with cutting-edge AI to solve your most complex manufacturing challenges.</p>
-          <Link to="/services" className="btn btn-primary">Discover Our Services</Link>
+          <Link to="/services" className="btn btn-primary">Explore</Link>
         </div>
       </section>
 
